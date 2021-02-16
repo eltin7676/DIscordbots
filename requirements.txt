@@ -1,1 +1,23 @@
 discord.py==0.16.12
+discord.ext
+commands, tasks
+itertools
+cycle
+sqlite3
+datetime
+asyncio
+time
+selenium
+webdriver
+selenium.webdriver.chrome.options
+Options
+ChromeOptions
+selenium.webdriver.support.ui
+WebDriverWait
+selenium.webdriver.support
+expected_conditions
+EC
+selenium.webdriver.common.by
+By
+configparser
+os
